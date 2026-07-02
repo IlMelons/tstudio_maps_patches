@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-name 'tstudio_zpatch_prompt_logistics_opium_racetrack'
+name 'tstudio_zpatch_prompt_logistics_racetrack'
 author 'TStudio'
 description 'Fix for Racetrack & Prompt Logistics'
 version '1.0.0'
